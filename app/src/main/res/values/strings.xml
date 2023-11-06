@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">Resep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="BahanCireng">
+\n1. Tepung Tapioka
+\n2. Air
+\n3. Daun Bawang
+\n4. Penyedap Rasa
+\n5. Garam</string>
+    <string name="CirengDesc">\n1. Haluskan Bawang Putih
+\n2. Panaskan wajan, lalu masukkan semua bahan pada teflon
+\n3. Masukkan air lalu aduk dan masak hingga mengental dan lengket
+\n4. Setelah adonan mengental masukkan ke tepung kering lalu uleni
+\n5. Bentuk Adonan menjadi pipih
+\n6. Panaskan minyak, goreng cireng di api besar hingga setengah matang
+\n7. tiriskan dan diamkan beberapa saat, lalu goreng kembali hingga sedikit berubah warna
+\n8. Cireng Siap Dihidangkan
+    </string>
+    <string name="BahanTahu">
+\n1. tahu putih sutra
+\n2. ayam paha filet
+\n3. kulit
+\n4. daging sapi cincang
+\n5. bawang putih
+\n6. bawang goreng
+\n7. tepung tapioka
+\n8. putih telur
+\n9. air es / es batu
+\n10. garam
+\n11. kaldu bubuk / penyedap gula pasir merica
+    </string>
+    <string name="TahuDesc">1. Panaskan minyak goreng fortune lalu masukkan tahu, goreng hingga kering, tiriskan
+\n2. Gunting kulit ayam masukkan ke dalam food processor beserta daging ayam, daging sapi, bawang putih, garam, gula, kaldu bubuk, dan merica hingga halus dan lengket
+\n3. Masukkan es batu, haluskan kemudian masukkan putih telur dan bawang goreng, haluskan kembali
+\n4. Masukkan tepung tapioka, haluskan hingga menyatu kemudian pindahkan ke dalam piping bag
+\n5. Keluarkan sedikit isian tahu lalu isi tahu dengan adonan, rapikan dengan garpu, ulangi hingga habis
+\n6. Kukus tahu bakso selama 20 menit hingga matang
+\n7. Tahu bakso siap disajikan
+    </string>
+    <string name="BahanOmelette">
+\n1. Telur
+\n2. Garam
+\n3. Daun Bawang
+\n4. Indomie goreng </string>
+    <string name="OmeletteDesc">\n1. Rebus mi tanpa bumbu hingga matang lalu tirikan
+\n2. Kocok telur lalu masukkan mi beserta bumbunya dan beri sedikit garam
+\n3. Panaskan teflon lalu masukkan adonan telur tunggu hingga warnanya golden brown
+\n4. Setelah matang merata, angkat lalu tiriskan. Sajikan bersama nasi hangat
+    </string>
+    <string name="BahanOrek">
+\n1. Tempe
+\n2. Garam
+\n3. Bawang Putih
+\n4. Cabai
+\n5. Bawang Merah
+\n6. Kecap
+\n7. Penyedap Rasa</string>
+    <string name="OrekDesc">\n1. Iris tempe lalu goreng hingga kering, tiriskan
+\n2. Haluskan bawang merah, bawang putih, cabai
+\n3. Tumis bumbu sampai harum lalu masukkan tempe. tambahkan penyedap rasa, garam dan kecap sesuai selera
+\n4. Setelah semua tercampur, koreksi rasa lalu matikan kompor
+    </string>
+    <string name="BahanCapcay">
+\n1. Wortel
+\n2. Garam
+\n3. Bawang Putih
+\n4. Kembang kol
+\n5. Brokoli
+\n6. Saus Tiram
+\n7. Penyedap Rasa
+\n8. sosis
+\n9. Pakcoy
+\n10. Telur
+\n11. Merica</string>
+    <string name="CapcayDesc">\n1. Iris sayuran lalu cuci hingga bersih
+\n2. Haluskan bawang putih
+\n3. Panaskan minyak, kemudian tumis bumbu halus lalu orek telur dan masukkan semua sayuran, masak hingga layu
+\n4. Tambahkan saos tiram, merica, setelah itu koreksi rasa
+\n5. Sajikan dengan nasi hangat
+    </string>
+    <string name="BahanKangkung">
+\n1. Kangkung
+\n2. Garam
+\n3. Bawang Putih
+\n4. Cabai
+\n5. Bawang Merah
+\n6. Kecap
+\n7. Penyedap Rasa</string>
+    <string name="KangkungDesc">\n1. Potong ujung kangkung dan pilih kangkung yang segar
+\n2. potong bawang merah, bawang putih, cabai
+\n3. Tumis bumbu sampai harum lalu masukkan kangkung. tambahkan penyedap rasa, garam dan kecap sesuai selera
+\n4. Masak hingga layu
+\n5. Setelah semua tercampur, koreksi rasa lalu matikan kompor
+    </string>
+    <string name="BahanSop">
+\n1. Kentang
+\n2. Garam
+\n3. Bawang Putih
+\n4. Wortel
+\n5. makroni
+\n6. Kol
+\n7. Penyedap Rasa</string>
+    <string name="SopDesc">\n1. Iris sayuran sesuai selera, lalu cuci hingga bersih
+\n2. Haluskan bawang putih dan garam
+\n3. Nyalakan kompor, rebus air hingga mendidih. setelah itu masukkan makroni tunggu hingga setengah matang
+\n4. lalu masukkan sayuran dimulai dari kentang lalu wortel dan terakhir kol. masukkan bumbu halus
+\n5. tunggu hingga matang lalu masukkan penyedap rasa
+\n6. koreksi rasa lalu matikan kompor
+    </string>
+    <string name="BahanAyam">
+\n1. Ayam
+\n2. Garam
+\n3. Bawang Putih
+\n4. Kunyit
+\n5. daun salam</string>
+    <string name="AyamDesc">\n1. Haluskan semua bumbu
+\n2. Bersihkan ayam
+\n3. Siapkan panci, masukkan bumbu dan ayam lalu tambahkan air secukupnya. lalu nyalakan kompor
+\n4. Ungkep ayam sekitar 15 menit. setelah itu matikan kompor lalu tunggu ayam dingin
+\n5. Ayam bisa langsung digoreng atau dimasukkan ke dalam freezer
+    </string>
+    <string name="BahanNasgor">
+\n1. Nasi
+\n2. Garam
+\n3. Bawang Putih
+\n4. Cabai
+\n5. Bawang Merah
+\n6. Kecap
+\n7. Penyedap Rasa
+\n8. Sosis
+\n9. Telur</string>
+    <string name="NasgorDesc">\n1. Haluskan garam bawang putih, bawang merah, cabai lalu tumis hingga harum
+\n2. Masukkan telor dan sosis
+\n3. Masukkan nasi lalu aduk hingga tercampur
+\n3. Tambahkan kecap dan penyedap rasa lalu aduk lagi
+\n4. Setelah semua tercampur, koreksi rasa lalu matikan kompor
+    </string>
+    <string name="BahanPancake">
+\n1. Telur
+\n2. Tepung terigu
+\n3. Gula
+\n4. Garam
+\n5. Susu Cair
+\n6. Baking Powder
+\n7. Margarin
+</string>
+    <string name="PancakeDesc">\n1. Kocok telur dan gula pasir lalu tambahkan tepung terigu dan aduk perlahan
+\n2. Tambahkan baking powder dan sejumput garam lalu kocok lagi
+\n3. Masukkan susu cair kedalam adonan, aduk hingga merata
+\n4. Panaskan teflon lalu oleskan margarin. tunggu hingga teflon hangat lalu masukkan sedikit adonan, tunggu hingga matang
+\n5. balik adonan jangan sampai gosong
+\n6. setelah matang, ulangi hingga adonan habis
+\n7. Beri toping sesuai selera lalu hidangkan
+    </string>
+    <string name="BahanBihun">
+\n1. Bihun
+\n2. Garam
+\n3. Bawang Putih
+\n4. Bawang Merah
+\n5. kecap
+\n6. daun seledri
+\n7. Penyedap Rasa</string>
+    <string name="BihunDesc">\n1. Rendam bihun pada air yang panas
+\n2. Cincang bawang merah, bawang putih, dan daun seledri
+\n3. Tumis bawang goreng, jika sudah kering sisihkan
+\n4. Tumis bawang putih hingga wangi lalu masukkan bihun lalu campur
+\n5. Tambahkan kecap manis dan garam, aduk hingga tercampur
+\n6. masukkan potongan seledri dan bawang goreng
+</string>
+    <string name="BahanJamur">
+\n1. Jamur
+\n2. Garam
+\n3. Bawang Putih
+\n4. Bawang Merah
+\n5. kecap
+\n6. saus tiram
+\n7. Penyedap Rasa</string>
+<string name="JamurDesc">\n1. Cuci bersih jamur dan suir suir
+\n2. Cincang bawang merah, bawang putih, dan cabai
+\n3. tumis bahan yang telah dicincang hingga harum lalu masukkan jamur
+\n4. Tambahkan garam, saus tiram, dan kecap secukupnya
+\n5. Tumis hingga jamur berair dan tunggu sampai menyusu
+</string>
+    <string name="BahanPakcoy">
+\n1. Pakcoy
+\n2. Garam
+\n3. Bawang Putih
+\n4. Larutan Maizena
+\n5. kecap
+\n6. saus tiram
+\n7. Kaldu Jamur
+\n8. Lada bubuk
+\n9. air</string>
+    <string name="PakcoyDesc">\n1. Potong sawi lalu cuci bersihcincang bawang putih.
+\n2. Rebus pakcoy kurang lebih 5 menit sampai setengah matang. Kemudian angkat dan masukan kedalam air biasa (agar warna tetap segar)
+\n3. Tumis bawang putih sampai harum. Lalu masukan air, saus tiram, kaldu jamur, lada bubuk, gula pasir dan garam secukupnya. tunggu sampai mendidih
+\n4. Lalu tambahkan larutan maizena, aduk² sampai kental dan matikan api.
+\n5. Tiriskan pakcoy diatas wadah/piring. Lalu siram dengan saus bawang putih.
+\n5. Tumis hingga jamur berair dan tunggu sampai menyusu
+</string>
+</resources>
